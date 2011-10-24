@@ -1,0 +1,30 @@
+title: Guides Demo
+description: Guides Gem Demo.
+  The idea is we should all create easy to 
+  read, write deploy documentation.
+  API documentation is great but limited in its use.
+  Guides are the glue to reaching that point where you
+  understand the code well enough to only need that API documentation.
+
+authors:
+  Documentation Team:
+    - name: Yehuda Katz
+      nick: wycats
+      description: Yehuda wrote the Rails guides gem.
+    - name: Peter Wagenet
+      nick: pwagenet
+      description: Peter has been a regular contributor and co-maintainer for the guides gem.
+  Designers:
+    - name: Jason Zimdars
+      nick: jz
+      description: Jason Zimdars is an experienced creative director and web designer who has lead UI and UX design for numerous websites and web applications. You can see more of his design and writing at <a href="http://www.thinkcage.com/">Thinkcage.com</a> or follow him on <a href="http://twitter.com/JZ">Twitter</a>
+
+index:
+  Start Here:
+    - title: Getting Started
+      url: getting_started
+      text: Getting started with guides
+
+    - title: Formats
+      url: languages
+      text: Formats you can use

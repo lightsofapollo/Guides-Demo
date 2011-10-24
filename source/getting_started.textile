@@ -1,0 +1,37 @@
+h2. Use textile to create your documentation.
+
+This is the header. Provide a brief description of the goal
+of this specific document.
+
+endprologue.
+
+h3. Why use guides?
+
+Because they are fun :D
+
+h3. Uh Really?
+
+No they provide you a quick and easy way to create
+a documentation site using textile for writing
+and HTML5/CSS3 and JavScript to create a better
+experience. Anything you can do with standard
+client side technology can be inside of a "guide"
+
+<javascript>
+
+YAHOO.util.Event.onDOMReady(function(){
+    alert('Wow');
+});
+</javascript>
+
+<div class="code_container">
+  <pre class="brush: php; gutter: false; toolbar: true">
+    class MyClass {
+        public function wow(){
+          return true;
+        }
+    }
+
+  </pre>
+</div>
+

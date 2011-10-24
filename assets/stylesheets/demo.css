@@ -1,0 +1,27 @@
+body {
+  background: #333;
+}
+
+#topNav {
+  display: none;
+}
+
+#header {
+  position: relative;
+  /* background: #65008D;*/
+  box-shadow: inset 0px  0px 0px #333;
+}
+
+#header .nav .index  {
+  background: transparent;
+}
+
+#header .nav .index a  {
+  background: transparent;
+}
+
+#header h1 a {
+  color: #FFF;
+  text-indent: 0em;
+  height: inherit;
+}
