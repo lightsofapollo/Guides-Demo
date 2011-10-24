@@ -16,10 +16,10 @@ Ruby 1.8 does not seem to work for me.
 
 ## Adding new items to the guide.
 
-Adding items to the guide is *REALLY* easy.
-Look in guides.yml for an example of how
-to add an item to the guide index.
-Then add a your_new_guide.textile to
+Adding items to the guide is *REALLY* easy.  
+Look in guides.yml for an example of how  
+to add an item to the guide index.  
+Then add a your_new_guide.textile to  
 source. See getting_started.textile for an
 example.
 
